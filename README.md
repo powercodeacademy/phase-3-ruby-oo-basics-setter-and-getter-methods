@@ -86,7 +86,7 @@ our `Person` class.
 
 ## Instructions
 
-Fork and clone the lab and run `learn test`. To get the tests passing, you will
+Fork and clone the lab and run `bin/rspec`. To get the tests passing, you will
 need to complete the following tasks:
 
 ### `Dog` and `lib/dog.rb`
